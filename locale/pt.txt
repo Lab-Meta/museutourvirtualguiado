@@ -49,4 +49,4 @@ panorama_5C330F0A_4848_6047_41A0_EAB56DA5FBDB.label = museu 9
 ### Description
 
 ### Title
-tour.name = Untitled 8
+tour.name = Tuor virtual guiado
